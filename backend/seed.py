@@ -1,4 +1,3 @@
-# seed.py
 from models import Users, Session, engine, Base
 from auth import hash_password
 
